@@ -1,2 +1,2 @@
-# jstack-mycontacts
-Projeto do Curso Jstack
+# jstack-mycontacts-api
+API do Projeto MyContacts do Curso Jstack.
